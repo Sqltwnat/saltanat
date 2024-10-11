@@ -1,0 +1,2 @@
+# saltanat
+Yıkılmazım
